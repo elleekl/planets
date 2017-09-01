@@ -1,0 +1,3 @@
+I am trying out using TextWrangler as my core.editor in git.
+
+Working so far!
